@@ -1,0 +1,18 @@
+{
+    "hospitals": [
+        {
+            "name": "Massachusetts General Hospital",
+            "cords": [42.363045524577196, -71.06909183054769],
+            "adress": "55 Fruit St, Boston, MA 02114",
+            "Mirai": true,
+            "Sybil": true
+        },
+        {
+            "name": "Brigham and Women's Hospital",
+            "cords": [42.33681830217578, -71.10699161013713],
+            "adress": "75 Francis St, Boston, MA 02115",
+            "Mirai": true,
+            "Sybil": true
+        }
+    ]
+}
