@@ -2,17 +2,27 @@
     "hospitals": [
         {
             "name": "Massachusetts General Hospital",
-            "cords": [42.363045524577196, -71.06909183054769],
-            "adress": "55 Fruit St, Boston, MA 02114",
-            "Mirai": true,
-            "Sybil": true
+            "coords": [42.363045524577196, -71.06909183054769],
+            "address": "55 Fruit St, Boston, MA 02114",
+            "patients_treated": "?"
         },
         {
             "name": "Brigham and Women's Hospital",
-            "cords": [42.33681830217578, -71.10699161013713],
-            "adress": "75 Francis St, Boston, MA 02115",
-            "Mirai": true,
-            "Sybil": true
+            "coords": [42.33681830217578, -71.10699161013713],
+            "address": "75 Francis St, Boston, MA 02115",
+            "patients_treated": "?"
+        },
+        {
+            "name": "King Faisal Specialist Hospital & Research Centre",
+            "coords": [24.97946896787666, 46.69695162144036],
+            "address": "XM7X+JXG, Airport Road, King Khalid International Airport, Riyadh 13458, Saudi Arabia",
+            "patients_treated": "?"
+        },
+        {
+            "name": "Taipei?",
+            "coords": [25.05324385499988, 121.52071291933396],
+            "address": "?",
+            "patients_treated": "?"
         }
     ]
 }
